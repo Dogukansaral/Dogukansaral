@@ -36,6 +36,7 @@ I'm a Jr.Front-End Developer 💻
 - Bootstrap
 - CSS
 - GIT  
+ 
 
 
 <br>
