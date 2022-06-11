@@ -11,7 +11,7 @@ I'm a Jr.Front-End Developer 💻
 <br>
 
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://fullstackdeveloperolmak.com/wp-content/uploads/2021/10/UI-design-15_optimized-1024x576.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://fullstackdeveloperolmak.com/wp-content/uploads/2021/10/UI-design-15_optimized-1024x576.png" alt="my banner"> </a>
 </p>
 
 ## 💼 Languages and Tools
